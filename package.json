@@ -1,0 +1,21 @@
+{
+  "name": "drive-mad",
+  "version": "1.0.0",
+  "description": "![status: draft](https://img.shields.io/badge/status-draft-orange) ![license: MIT](https://img.shields.io/badge/license-MIT-blue)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/go-kawser/DriveMad-Arcade-Racing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/go-kawser/DriveMad-Arcade-Racing/issues"
+  },
+  "homepage": "https://github.com/go-kawser/DriveMad-Arcade-Racing#readme"
+}
