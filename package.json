@@ -1,21 +1,33 @@
 {
-  "name": "drive-mad",
+  "name": "drivemad-arcade-racing",
   "version": "1.0.0",
-  "description": "![status: draft](https://img.shields.io/badge/status-draft-orange) ![license: MIT](https://img.shields.io/badge/license-MIT-blue)",
-  "main": "index.js",
+  "description": "DriveMad — High-Octane HTML5 Arcade Racing Game (Canvas/WebGL). Fast, lightweight, browser-ready racing experience with keyboard, gamepad, and touch support.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build --outDir dist",
+    "preview": "vite preview --port 5000"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/go-kawser/DriveMad-Arcade-Racing.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
+  "keywords": [
+    "html5-game",
+    "javascript",
+    "canvas",
+    "webgl",
+    "racing-game",
+    "arcade",
+    "gamedev",
+    "vite"
+  ],
+  "author": "Muhammad Kawser",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/go-kawser/DriveMad-Arcade-Racing/issues"
   },
-  "homepage": "https://github.com/go-kawser/DriveMad-Arcade-Racing#readme"
+  "homepage": "https://github.com/go-kawser/DriveMad-Arcade-Racing#readme",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
 }
